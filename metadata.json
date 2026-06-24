@@ -1,0 +1,8 @@
+{
+  "name": "Falvella Contabilidade",
+  "description": "Contabilidade especializada para negócios digitais, infoprodutores, afiliados, coprodutores, gestores de tráfego e prestadores de serviços.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
